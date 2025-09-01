@@ -6,7 +6,7 @@ MSDS2025PTB
 
 This directory contains materials and data for a time series analysis project. Below is a brief description of its contents:
 
-- `TSA CPT5 Final Project Presentation.mp4`: Project presentation video.
+- `1_TSA CPT5 Final Project Presentation.mp4`: Project presentation video.
 - `2_Slides.pdf`: Slide deck used in the presentation.
 - `3_Poster.pdf`: Project poster summarizing key findings.
 - `NB1_ExploratoryDataAnalysis.ipynb`: Jupyter notebook for exploratory data analysis.
